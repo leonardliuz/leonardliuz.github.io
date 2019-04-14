@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-13T12:50:48.002Z</updated>
+  <updated>2019-04-14T14:58:36.864Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/04/14/fancybox-photo/"/>
+    <id>http://yoursite.com/2019/04/14/fancybox-photo/</id>
+    <published>2019-04-14T14:58:36.732Z</published>
+    <updated>2019-04-14T14:58:36.864Z</updated>
+    
+    <content type="html"><![CDATA[<p>layout: photo<br>title: 我的阅历<br>date: 2085-01-16 07:33:44<br>tags: [hexo]<br>photos:</p><ul><li><a href="http://bruce.u.qiniudn.com/2013/11/27/reading/photos-0.jpg" target="_blank" rel="noopener">http://bruce.u.qiniudn.com/2013/11/27/reading/photos-0.jpg</a></li><li><a href="http://bruce.u.qiniudn.com/2013/11/27/reading/photos-1.jpg" target="_blank" rel="noopener">http://bruce.u.qiniudn.com/2013/11/27/reading/photos-1.jpg</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;layout: photo&lt;br&gt;title: 我的阅历&lt;br&gt;date: 2085-01-16 07:33:44&lt;br&gt;tags: [hexo]&lt;br&gt;photos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://bruce.u.qiniudn.com/201
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

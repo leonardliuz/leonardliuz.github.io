@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>http://yoursite.com/2019/04/14/fancybox-photo/</loc>
+        <lastmod>2019-04-14T14:58:36.864Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://yoursite.com/2019/04/10/%E4%BD%A0%E5%A5%BD-Hexo/</loc>
         <lastmod>2019-04-13T12:50:48.010Z</lastmod>
         <changefreq>weekly</changefreq>
